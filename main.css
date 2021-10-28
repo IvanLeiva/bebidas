@@ -11,19 +11,25 @@ margin-top: 200px
 color: rgb(42, 218, 42);
 width: 39px;
 height: 39px;
-margin-top: 13px;
+margin: 18px;
 
 
 }
 
+.contacto{
+    list-style:none;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
 
+
+
+}
 .face svg{
 
-    color: rgb(34, 65, 241);
+
     width: 39px;
-    height: 39px;
-    margin-top: 6px;
-    
+    height: 39px;  
     
     }
 
@@ -45,3 +51,12 @@ text-align: center;
 
 
 }
+
+
+
+
+
+
+
+
+
