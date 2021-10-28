@@ -1,0 +1,47 @@
+.title{
+
+margin-top: 200px
+
+
+
+}
+
+.whatsapp svg{
+
+color: rgb(42, 218, 42);
+width: 39px;
+height: 39px;
+margin-top: 13px;
+
+
+}
+
+
+.face svg{
+
+    color: rgb(34, 65, 241);
+    width: 39px;
+    height: 39px;
+    margin-top: 6px;
+    
+    
+    }
+
+.cardHover{
+
+    width: 16rem;
+    transition: 0.5s;
+
+
+}
+
+
+.cardHover:hover{
+box-shadow: 10px 5px 5px grey;
+width: 18rem;
+transition-duration: 1s;
+transition: 0.9s linear;
+text-align: center;
+
+
+}
