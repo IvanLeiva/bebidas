@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "tipo": "cerveza",
+    "envace": "porron",
+    "title": "Stella 710ml",
+    "precioUnidad": "220",
+    "precioX3": 640,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0254/2947/5433/products/cerveza-stella-artois-belgium-710-siempreencasa_45c45612-1a06-4fac-a7ae-18a51c3251d7_1000x.png?v=1629814812"
+  },
+  {
+    "id": 2,
+    "tipo": "cerveza",
+    "envace": "lata",
+    "title": "Stella 473ml Negra",
+    "precioUnidad": "130",
+    "precioX6": "720",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0254/2947/5433/products/cerveza-stella-artois-noire-473-siempreencasa_1000x.png?v=1629814806"
+  },
+  {
+    "id": 3,
+    "tipo": "cerveza",
+    "envace": "lata",
+    "title": "Stella 473ml",
+    "precioUnidad": "130",
+    "precioX6": "720",
+    "imgUrl": "https://grupomontego.com.ar/wp-content/uploads/2020/10/stella-artois-x-473cc-e1602626529769.jpg"
+  },
+  {
+    "id": 4,
+    "tipo": "cerveza",
+    "envace": "lata",
+    "title": "Miller 473ml",
+    "precioUnidad": "130",
+    "precioX6": "720",
+    "imgUrl": "https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/productos/b/0000006000/6228.jpg"
+  },
+  {
+    "id": 5,
+    "tipo": "cerveza",
+    "envace": "porron",
+    "title": "Brahma Dorada 710ml",
+    "precioUnidad": "170",
+    "precioX3": 500,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0254/2947/5433/products/cerveza-brahma-dorada-710-siempreencasa_1000x.png?v=1622209024"
+  },
+  {
+    "id": 6,
+    "tipo": "cerveza",
+    "envace": "lata",
+    "title": "Brahma 473ml",
+    "precioUnidad": "100",
+    "precioX6": "530",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0254/2947/5433/products/cerveza-brahma-chopp-473-siempreencasa_1000x.png?v=1629814831"
+  },
+  {
+    "id": 7,
+    "tipo": "cerveza",
+    "envace": "lata",
+    "title": "Quilmes 473ml",
+    "precioUnidad": "95",
+    "precioX6": "520",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0254/2947/5433/products/cerveza-quilmes-clasica-473-siempreencasa_1000x.png?v=1629814580"
+  },
+  {
+    "id": 8,
+    "tipo": "cerveza",
+    "envace": "porron",
+    "title": "Corona 710ml",
+    "precioUnidad": "200",
+    "precioX3": 560,
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0254/2947/5433/products/cerveza-corona-710-siempreencasa_1000x.png?v=1629814795"
+  },
+  {
+    "id": 9,
+    "tipo": "gaseosa",
+    "envace": "3",
+    "title": "Seven Up 3lts",
+    "precioUnidad": "210",
+    "precioX6": "1.200",
+    "imgUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/160/839/products/project_20201005_2239363-011-b75717f424961d49cb16019485258896-1024-1024.png"
+  },
+  {
+    "id": 10,
+    "tipo": "gaseosa",
+    "envace": "2,25",
+    "title": "Seven Up 2,25",
+    "precioUnidad": 180,
+    "precioX6": "1.000",
+    "imgUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/219/187/products/7up-2251-b13a533297eeed1d9616006468858035-1024-1024.png"
+  },
+  {
+    "id": 11,
+    "tipo": "gaseosa",
+    "envace": "1,5",
+    "title": "Seven Up 1.5lt",
+    "precioUnidad": 120,
+    "precioX6": "660",
+    "imgUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/219/187/products/7up-2251-b13a533297eeed1d9616006468858035-1024-1024.png"
+  },
+  {
+    "id": 12,
+    "tipo": "gaseosa",
+    "envace": "500",
+    "title": "Seven Up 1.5lt",
+    "precioUnidad": 75,
+    "precioX6": "450",
+    "imgUrl": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/182/795/products/gaseosa-seven-up-500-ml1-f953af883f5d309c5415916559789733-640-0.jpg"
+  },
+  {
+    "id": 13,
+    "tipo": "gaseosa",
+    "envace": "3",
+    "title": "Pepsi 3lts",
+    "precioUnidad": "210",
+    "precioX6": "1200",
+    "imgUrl": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/160/839/products/project_20201005_2240112-011-91b43daafb2e99c4f316019485983832-1024-1024.png"
+  },
+  {
+    "id": 14,
+    "tipo": "gaseosa",
+    "envace": "2,25",
+    "title": "Pepsi 2,25",
+    "precioUnidad": 180,
+    "precioX6": "1.000",
+    "imgUrl": "http://cdn.shopify.com/s/files/1/0254/2947/5433/products/gaseosa-pepsi-pet-2250-siempreencasa_1000x.png?v=1629814779"
+  },
+  {
+    "id": 15,
+    "tipo": "gaseosa",
+    "envace": "1,5",
+    "title": "Pepsi 1.5lt",
+    "precioUnidad": 120,
+    "precioX6": "660",
+    "imgUrl": "http://cdn.shopify.com/s/files/1/0254/2947/5433/products/gaseosa-pepsi-pet-1500-siempreencasa_1000x.png?v=1629814686"
+  },
+  {
+    "id": 12,
+    "tipo": "gaseosa",
+    "envace": "500",
+    "title": "Seven Up 1.5lt",
+    "precioUnidad": 75,
+    "precioX6": "450",
+    "imgUrl": "https://cdn.shopify.com/s/files/1/0254/2947/5433/products/gaseosa-pepsi-pet-500-siempreencasa_600x600.png?v=1629814534?nocache=0.14780717785470188"
+  }
+]
