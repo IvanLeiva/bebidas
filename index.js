@@ -1,15 +1,6 @@
 document.addEventListener('DOMContentLoaded', e => { fetchData() });
 
 
-function saludar() { alert("holaaa"); }
-
-
-
-
-
-
-
-
 const fetchData = async () => {
     const res = await fetch('data.json');
     const data = await res.json()
