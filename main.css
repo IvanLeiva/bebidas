@@ -43,12 +43,10 @@ margin: 18px;
 
 
 .cardHover:hover{
-box-shadow: 10px 5px 5px grey;
-width: 18rem;
-transition-duration: 1s;
-transition: 0.9s linear;
-text-align: center;
-
+    
+    box-shadow: 10px 5px 5px grey;
+    transition-duration: 0.5s;
+    transition: 0.2s linear;
 
 }
 
