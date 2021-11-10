@@ -1,13 +1,21 @@
 document.addEventListener('DOMContentLoaded', e => { fetchData() });
 
 
+function saludar() { alert("holaaa"); }
+
+
+
+
+
+
+
 
 const fetchData = async () => {
     const res = await fetch('data.json');
     const data = await res.json()
 
     pintarProductos(data);
-
+    saludar()
 }
 
 
@@ -45,16 +53,6 @@ const pintarProductos = (data) => {
 
 
         }
-
-
-
-
-
-
-
-
-
-
 
         template.querySelector("h5").textContent = producto.title;
 
